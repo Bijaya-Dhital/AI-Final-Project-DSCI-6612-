@@ -149,7 +149,7 @@ https://www.healthline.com/health/heart-disease/statistics#Who-is-at-risk?
 
 https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
-https://www.hcplive.com/view/machine-learning-boasts-90-accuracy-rate-for-predicting-heart-attack-death
+https://www.hcplive.com/view/machine-learning-boasts-90-accuracy-rate-for-predicting-heart-attack-death 
 
 
 ```python
